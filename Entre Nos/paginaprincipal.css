@@ -1,0 +1,30 @@
+.navegador{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: 20px 300px;
+    background-color: rgb(206, 84, 73);
+}
+.navegacion ul{
+    list-style:none;
+}
+.menu >li{ 
+    display: inline-block;
+
+}
+.menu >li>a{
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    padding: 10px  51px;
+    font-size: 27px;
+}
+.menu>li>a:hover{
+    color: rgb(255, 255, 255);
+}
+.imagenR
+{
+    margin: 100px;
+    width: 1250px;
+    height: 1000px;
+}
